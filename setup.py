@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='wdgameoflife',
-        version='0.0.1',
+        version='0.0.3',
         description='This is a project for the course Advanced Scientific Programming in Python - Uppsala University',
         url='https://github.com/wangd3109/wdgameoflife',
         author='Duo Wang',

@@ -1,4 +1,5 @@
 setup.py
+wdgameoflife/__main__.py
 wdgameoflife/wdgameoflife.py
 wdgameoflife.egg-info/PKG-INFO
 wdgameoflife.egg-info/SOURCES.txt
